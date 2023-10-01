@@ -1,4 +1,4 @@
-## How to use the GENESIS API (RESTful/JSON)
+## How to use the GENESIS API
 
 This repo contains a simple demo of using the GENESIS API (RESTful/JSON) in Python. To run it on your machine, you'll need create an account for the GENESIS platform and add your credentials to a `.env` file in the root directory of this project (see `.env.example`).
 
@@ -13,7 +13,7 @@ This demo was part of a workshop given at the [2023 SciCAR conference](hhttps://
 ### Additional workshop resources:
 
 - [Slides (in German)](https://downloads.datengui.de/slides/scicar2023.pdf)
-- [Additional example using a choropleth map (Observable notebook)](https://observablehq.com/d/74dfe949c3da2ab7)
+- [Additional example using a choropleth map (Observable notebook)](https://observablehq.com/@sjockers/genesis-choroplethen)
 - [Official GENESIS API documentation (in German)](https://www-genesis.destatis.de:443/genesis/misc/GENESIS-Webservices_Einfuehrung.pdf)
 
 ### Alternative tools for accessing GENESIS APIs:
